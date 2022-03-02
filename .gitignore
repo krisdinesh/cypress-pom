@@ -27,7 +27,7 @@ build/Release
 node_modules
 cypress/videos
 cypress/screenshots
-cypress/mochawesome-report
+mochawesome-report
 cypress/reports
 
 mochawesome.json
